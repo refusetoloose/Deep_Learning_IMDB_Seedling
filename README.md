@@ -24,8 +24,9 @@ This repository contains two projects on Deep Learning using fastai, a widely-us
 ### Lab Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/refusetoloose/Deep_Learning_IMDB_Seedling
+   cd Deep_Learning_IMDB_Seedling
+   
 2. Download all the data files listed in the Materials and Equipment section above.
 3. Access your Google Drive at [Google Drive](https://drive.google.com/) and create a folder in the root.
    - Note: If you don’t have a Google account, you’ll need to create one.

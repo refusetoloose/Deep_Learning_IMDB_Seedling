@@ -25,6 +25,7 @@ This repository contains two projects on Deep Learning using fastai, a widely-us
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/refusetoloose/Deep_Learning_IMDB_Seedling
+
    cd Deep_Learning_IMDB_Seedling
    
 2. Download all the data files listed in the Materials and Equipment section above.
